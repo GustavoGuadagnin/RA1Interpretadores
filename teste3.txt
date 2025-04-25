@@ -1,0 +1,9 @@
+8
+true
+(\neg false)
+(\wedge 1a (\neg 2b))
+(\vee (\neg (\wedge true false)) (\rightarrow 3x 4y))
+(\wedge true)
+(\neg \wedge true false)
+(\neg (\vee true $false))
+(x1)
