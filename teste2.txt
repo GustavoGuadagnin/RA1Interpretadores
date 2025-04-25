@@ -1,0 +1,4 @@
+3
+(\leftrightarrow true false)
+123abc
+(\neg (\wedge 1x (\vee 2y 3z)))
